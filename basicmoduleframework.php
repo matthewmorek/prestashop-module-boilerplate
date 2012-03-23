@@ -3,7 +3,7 @@
 *  @author Matthew Morek <me@matthewmorek.com>
 *  @copyright  2009-2011 DraftFactory (info@draftfactory.co.uk)
 *  @version  Release: $Revision: 1.4 $
-*  @license http://creativecommons.org/licenses/by-sa/3.0/
+*  @license http://license.visualidiot.com/
 */
 
 class BasicModuleFramework extends Module { // change it to your own class name
