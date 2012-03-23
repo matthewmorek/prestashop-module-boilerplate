@@ -1,7 +1,7 @@
 <?php
 /**
 *  @author Matthew Morek <me@matthewmorek.com>
-*  @copyright  2009-2011 DraftFactory (info@draftfactory.co.uk)
+*  @copyright Matthew Morek <me@matthewmorek.com>
 *  @version  Release: $Revision: 1.4 $
 *  @license http://license.visualidiot.com/
 */
