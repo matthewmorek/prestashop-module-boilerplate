@@ -1,4 +1,5 @@
-# An attempt at standardizing Prestashop modules development using a solid framework for all future projects.
+# Prestashop Module Boilerplate
+An attempt at standardizing Prestashop modules development using a solid framework for all future projects.
 
 ## Usage
 Download this package and build your Prestashop modules on top of it. It has been designed and developed using standard Prestashop 1.4.x compatible methods and classes.
